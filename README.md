@@ -2,7 +2,6 @@
 
 Currently I am:
 - A Senior Software Engineer 
-- Trying to master data structures and algorithms because interviews are broken ✨
 
 My favourite fun fact:
 - [Hamilton, Ontario, Canada is more expensive to live in than Los Angeles, California, USA](https://financialpost.com/executive/executive-summary/posthaste-hamilton-ont-now-tops-los-angeles-among-north-americas-least-affordable-cities-for-housing)
